@@ -37,7 +37,7 @@ I bridge the gap between engineering logic and modern web solutions. I focus on 
 ### 📊 My Coding Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib669&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib669&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakib669&theme=radical" alt="Most Used Languages" />
 </p>
 
