@@ -1,47 +1,48 @@
-# Sakib669-Sakib669
 # 👨‍💻 Hi there! I'm Shafiqul Islam Sakib
 
-### 🎓 B.Sc. in Electrical & Electronic Engineering (EEE) Student | MERN Stack Developer
-
-I am a passionate Full Stack Developer who loves bridging the gap between engineering logic and modern web solutions. I specialize in building scalable, production-ready applications with the MERN stack.
-
-- 🔭 I’m currently working on enhancing **MernEats** with more features.
-- 🌱 I’m currently learning **Advanced System Design** and **Next.js**.
-- ⚡ Fun fact: I balance my engineering labs with late-night coding sessions! [cite: 2026-01-18]
+### 🚀 B.Sc. in EEE Student | Passionate MERN Stack Developer
+I bridge the gap between engineering logic and modern web solutions. I focus on building scalable, production-ready applications with a commitment to clean code and performance.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Toolbox
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Tools** | ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
 
-### 🚀 Top Projects
+### 🔥 Top Projects (MERN Stack)
 
-#### 🍱 [MernEats - Food Delivery Ecosystem](https://github.com/Sakib669)
-- **Features:** Stripe Payment, Real-time Tracking, Admin Dashboard.
-- **Tech:** React, Node.js, MongoDB, Tanstack Query. [cite: 2026-01-27]
+#### 🍱 [MernEats](https://github.com/Sakib669) - Food Delivery Ecosystem
+- **Features:** Stripe integration, Real-time Order Tracking, Advanced Search & Filter.
+- **Impact:** Built a production-grade UI with complex state management using Tanstack Query.
 
-#### 🍳 [Bistro Boss - Restaurant Management](https://github.com/Sakib669)
-- **Features:** Role-Based Access Control (RBAC), JWT Auth, Responsive UI.
-- **Tech:** React, Express, Firebase, DaisyUI.
+#### 🍳 [Bistro Boss](https://github.com/Sakib669) - Restaurant Management System
+- **Features:** Role-Based Access Control (RBAC), JWT Authentication, Responsive Admin Dashboards.
+- **Tech:** React, Express, Firebase, Tailwind CSS.
 
----
-
-### 📊 GitHub Stats
-
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib669&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib669&layout=compact&theme=radical)
+#### 📚 [LearnGo](https://github.com/Sakib669) - E-Learning Platform
+- **Features:** Course progress tracking, secure authentication, and optimized form handling with React Hook Form.
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/sakib669](https://linkedin.com/in/sakib669)
-- [cite_start]**Email:** [shafiqul.dev@gmail.com](mailto:shafiqul.dev@gmail.com) [cite: 5]
+### 📊 My Coding Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sakib669&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib669&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/sakib669](https://linkedin.com/in/sakib669)
+- 📧 **Email:** [shafiqul.dev@gmail.com](mailto:shafiqul.dev@gmail.com)
+- 🌍 **Portfolio:** [Visit My Portfolio](https://portfolio138sakib.netlify.app)
+
+---
+*"Balancing Engineering Labs with Full-Stack Dreams."*
