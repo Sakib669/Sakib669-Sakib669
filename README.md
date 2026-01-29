@@ -15,18 +15,22 @@ I bridge the gap between engineering logic and modern web solutions. I focus on 
 
 ---
 
-### 🔥 Top Projects (MERN Stack)
+### 🚀 Featured Projects (Full Stack)
 
-#### 🍱 [MernEats](https://github.com/Sakib669) - Food Delivery Ecosystem
-- **Features:** Stripe integration, Real-time Order Tracking, Advanced Search & Filter.
-- **Impact:** Built a production-grade UI with complex state management using Tanstack Query.
+#### 🍱 [MernEats - Food Delivery Ecosystem](https://github.com/Sakib669/mern-food-ordering-app-frontend)
+- **Tech:** React, Node.js, MongoDB, TanStack Query, Stripe API.
+- **Key Features:** Secure Stripe Payment, Real-time Order Tracking, Admin Dashboard.
+- **Links:** [🌐 Live Demo](https://mern-eats-sakib.vercel.app) | [💻 Frontend](https://github.com/Sakib669/mern-food-ordering-app-frontend) | [⚙️ Backend](https://github.com/Sakib669/mern-food-ordering-app-backend)
 
-#### 🍳 [Bistro Boss](https://github.com/Sakib669) - Restaurant Management System
-- **Features:** Role-Based Access Control (RBAC), JWT Authentication, Responsive Admin Dashboards.
-- **Tech:** React, Express, Firebase, Tailwind CSS.
+#### 🍳 [Bistro Boss - Restaurant Management](https://github.com/Sakib669/bistro-boss-client)
+- **Tech:** React, Express, Firebase Auth, JWT, DaisyUI.
+- **Key Features:** Role-Based Access Control (Admin/User), Food Menu Management, Payment Integration.
+- **Links:** [🌐 Live Demo](https://bistro-boss-sakib.vercel.app) | [💻 Client](https://github.com/Sakib669/bistro-boss-client) | [⚙️ Server](https://github.com/Sakib669/bistro-boss-server)
 
-#### 📚 [LearnGo](https://github.com/Sakib669) - E-Learning Platform
-- **Features:** Course progress tracking, secure authentication, and optimized form handling with React Hook Form.
+#### 📚 [LearnGo - E-Learning Platform](https://github.com/Sakib669/learn-go-client)
+- **Tech:** React, Tailwind CSS, Firebase, Express.js, MongoDB.
+- **Key Features:** Course Progress Tracking, Interactive Dashboard, Secure Enrollment.
+- **Links:** [🌐 Live Demo](https://learn-go-sakib.vercel.app) | [💻 Client](https://github.com/Sakib669/summer-camp-client) | [⚙️ Server](https://github.com/Sakib669/summer-camp-server)
 
 ---
 
